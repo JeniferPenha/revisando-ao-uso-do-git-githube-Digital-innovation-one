@@ -1,2 +1,2 @@
-# revisando-ao-uso-do-git-githube-Digital-innovation-one
+# Revisando o uso do git/GitHub Digital Innovation One
 Desafio de projeto git/github
